@@ -1,10 +1,10 @@
 # Real-State-price-predictor
 
-<b># About the project
-<b>The project demonstrates a supervised learning workflow for predicting property prices based on features like location, size, and amenities. The output is a trained regression model that can estimate prices of unseen property listings.
+About the project
+<br>The project demonstrates a supervised learning workflow for predicting property prices based on features like location, size, and amenities. The output is a trained regression model that can estimate prices of unseen property listings.
 
-<b># Features
-<b>Data cleaning and preprocessing
+Features
+<br>Data cleaning and preprocessing
 
 Feature selection and encoding
 
